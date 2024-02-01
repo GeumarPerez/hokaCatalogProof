@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap');
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+.colornav{
+	background-color: #0082cb;
+}
+/*Estilos de personalizados del head*/
+.head{
+	background-image: url("images/mach 5.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 100vh;
+}
+
+
+/*Estilos personalizados del formulario*/
+.form{
+	background: rgb(0,130,203);
+	background: linear-gradient(90deg, rgba(0,130,203,1) 12%, rgba(0,212,255,1) 66%);
+}
+
+/*Estilos personalizados del footer*/
+.footer{
+	
+	background-color: #393d42;
+}
+
+.social{
+	font-size: 30px;
+	margin: 10px;
+}

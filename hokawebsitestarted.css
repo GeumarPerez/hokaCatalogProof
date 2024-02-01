@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap');
+
+
+
+
+body{
+	background-image: url(images/gente-tiro-medio-corriendo-juntos.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+
+}
+/*Contenedor principal*/
+.cont{
+	height: 100vh;
+}
+/*Estilos de texto de botones*/
+.gender{
+	font-family: 'Poppins', sans-serif;
+	opacity: 1;
+	font-weight: 600;
+	color: #000000;	
+}
+/*Estilo de texto de Copyright*/
+.copyright{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	color: #ffffff;
+}
+
